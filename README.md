@@ -42,7 +42,7 @@ npm install
 
 npm start
 
-**First run the backend after that it will the display the localhost address and after that run the frontend**
+**First run the backend after that it will the display the localhost address and after that run the frontend**.
 **Automatically Opens the app in your browser and enter movie details to predict revenue.**
 
 **Project Highlights**
