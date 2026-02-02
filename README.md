@@ -28,14 +28,18 @@ Libraries/Modules: Any additional modules used for prediction or UI (e.g  Flask,
 **Backend**
 
 cd backend
+
 pip install -r requirements.txt
+
 python app.py
 
 
 **Frontend**
 
 cd frontend
+
 npm install
+
 npm start
 
 **First run the backend after that it will the display the localhost address and after that run the frontend**
